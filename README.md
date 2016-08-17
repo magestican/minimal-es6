@@ -1,4 +1,4 @@
-"# minimal-es6"
+ ![alt tag](https://images7.alphacoders.com/326/326587.jpg)
 
 npm run setup (only the first time)
 
