@@ -3,3 +3,5 @@
 npm run setup (only the first time)
 
 npm start
+
+live-server
